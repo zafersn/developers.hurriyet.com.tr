@@ -16,5 +16,5 @@ Geliştirici                  | Uygulama         |
 [Oğuzhan ÇAKAR](https://github.com/ogzcakar) | [HurriyetApi](https://github.com/ogzcakar/HurriyetApi) |
 [Ender Ahmet Yurt](https://github.com/enderahmetyurt) | [Ruby CLI](https://github.com/enderahmetyurt/hurriyet-cli) |
 [Savaş Can ALTUN](https://github.com/saltun) | [PHP Api Class](https://github.com/saltun/Hurriyet) |
-
+[Zafer M. ŞEN](https://github.com/zafersn) | [Hurriyet Api Example](https://github.com/zafersn/hurriyet-api-ile-haber-uygulamasi-ornegi) |
 
